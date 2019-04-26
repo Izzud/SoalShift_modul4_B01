@@ -29,6 +29,13 @@ Misalkan ada file bernama “halo” di dalam folder “INI_FOLDER”, dan key y
 Perhatian: Karakter ‘/’ adalah karakter ilegal dalam penamaan file atau folder dalam *NIX, maka dari itu dapat diabaikan
 
 ### Penyelesaian
+Fungsi yang digunakan pada soal nomor 1 ini adalah sebagai berikut :
+1. Fungsi decrypt untuk dekripsi
+2.  Fungsi encrypt untuk enkripsi
+3.  Fungsi getatttribut
+4. Fungsi Readdir
+5. Fungsi Read
+6. Fungsi Write
 
 ## Soal 2
 
